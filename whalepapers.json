@@ -1,6 +1,4 @@
-{
-	"wallpapers":
-	[
+[
 	{
 		"name": "Abstract 1 Blue",
 		"author": "iambavith",
@@ -21,6 +19,55 @@
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Obstract%201%20Yellow.png"
 	
 	
-	}
+	},
+	{
+		"name": "Basket Ball Red",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20dark%20red.jpg"
+	
+	
+	},
+	{
+		"name": "Basket Ball Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20blue.jpg"
+	
+	
+	},
+	{
+		"name": "Asus Rog",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Asus%20ROG%201.jpg"
+	
+	
+	},
+	{
+		"name": "Horse Pink",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Horse%20PINK.jpg"
+	
+	
+	},
+	{
+		"name": "Horse Red",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Horse%20RED.jpg"
+	
+	
+	},
+	{
+		"name": "Ink Splash Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Ink%20splash%20BLUE.jpg"
+	
+	
+	},
+	{
+		"name": "Ink Splash Red",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Ink%20splash%20RED.jpg"
+	
+	
+	},
+	
 ]
-}
