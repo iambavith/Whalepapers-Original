@@ -5,6 +5,7 @@
 		"name": "Abstract 1 Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Obstract%201%20Blue.png",
+                "downloadable": false,
                 "collections": "ABSTRACT | AMOLED"
 	
 	
@@ -13,6 +14,7 @@
 		"name": "Abstract 1 Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Obstract%201%20RED.png",
+                "downloadable": false,
                 "collections": "ABSTRACT | AMOLED"
 	
 	
@@ -21,6 +23,7 @@
 		"name": "Abstract 1 Yellow",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Obstract%201%20Yellow.png",
+                 "downloadable": false,
 	        "collections": "ABSTRACT | AMOLED"
 	
 	},
@@ -28,6 +31,7 @@
 		"name": "Basket Ball Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20dark%20red.jpg",
+                 "downloadable": false,
 	        "collections": "MINIMAL | AMOLED"
 	
 	},
@@ -35,6 +39,7 @@
 		"name": "Basket Ball Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20blue.jpg",
+                "downloadable": false,
                 "collections": "MINIMAL | AMOLED"
 	
 	
@@ -43,6 +48,7 @@
 		"name": "Asus Rog",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Asus%20ROG%201.jpg",
+                 "downloadable": false,
 	        "collections": "GRADIENT"
 	
 	},
@@ -50,6 +56,7 @@
 		"name": "Horse Pink",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Horse%20PINK.jpg",
+                 "downloadable": false,
                  "collections": "MINIMAL | AMOLED"
 	
 	
@@ -58,6 +65,7 @@
 		"name": "Horse Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Horse%20RED.jpg",
+                 "downloadable": false,
                  "collections": "MINIMAL | AMOLED"
 	
 	
@@ -66,6 +74,7 @@
 		"name": "Ink Splash Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Ink%20splash%20BLUE.jpg",
+                "downloadable": false,
                  "collections": "MATERIAL"
 	
 	
@@ -74,9 +83,36 @@
 		"name": "Ink Splash Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Ink%20splash%20RED.jpg",
+                 "downloadable": false,
                 "collections": "MATERIAL"	
 	
 	},
 	
+         {
+		"name": "Lovely Hearts Red",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Lovely%20hearts%20red.jpg",
+                 "downloadable": false,
+                "collections": "MINIMAL"	
+	
+	},
+
+	 {
+		"name": "Lovely Hearts Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Lovely%20hearts%20blue.jpg",
+                 "downloadable": false,
+                "collections": "MINIMAL"	
+	
+	},
+
+         {
+		"name": "Lovely Hearts Green",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Lovely%20hearts%20green.jpg",
+                 "downloadable": false,
+                "collections": "MINIMAL"	
+	
+	},
 ]
 }
