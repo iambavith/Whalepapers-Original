@@ -1,6 +1,27 @@
 {
      "Wallpapers":
 [
+           
+
+        {
+		"name": "Squirrel Red",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Squirrel%20Red.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+        {
+		"name": "Squirrel Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Squirrel%20Blue.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+        
 	{
 		"name": "Abstract 1 Blue",
 		"author": "iambavith",
