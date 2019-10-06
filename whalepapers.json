@@ -1,7 +1,36 @@
 {
      "Wallpapers":
 [
-           
+
+
+              {
+		"name": "Love Park Yellow",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Love%20Park%20Yellow.png",
+                "downloadable": false,
+                "collections": "AMOLED"
+	
+	
+	}, 
+           {
+		"name": "Love Park Red",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Love%20Park%20Red.png",
+                "downloadable": false,
+                "collections": "AMOLED"
+	
+	
+	}, 
+
+         {
+		"name": "Love Park Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Love%20Park%20Blue.png",
+                "downloadable": false,
+                "collections": "AMOLED"
+	
+	
+	}, 
 
         {
 		"name": "Squirrel Red",
