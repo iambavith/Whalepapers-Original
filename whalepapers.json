@@ -1,9 +1,36 @@
 {
      "Wallpapers":
 [
+   {
+		"name": "Captain America",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/captain%20america%20(3).jpg",
+                "downloadable": false,
+                "collections": "AMOLED"
+	
+	
+	},
 
+     {
+		"name": "Flat Buildings Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Buildings%20Blue.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+               {
+		"name": "Flat Buildings Red",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Buildings%20Red.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
 
-              {
+             {
 		"name": "Love Park Yellow",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Love%20Park%20Yellow.png",
