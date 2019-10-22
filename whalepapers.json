@@ -3,6 +3,56 @@
 [
 
 {
+		"name": "Wolf Orange",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Wolf%20Orange.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Wolf Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Wolf%20Blue.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "SunRise Orange",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Sun%20Rise%20Orange.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "SunRise Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Sun%20Rise%20Blue.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Material 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Material%201.png",
+                "downloadable": false,
+                "collections": "MATERIAL"
+	
+	
+	},
+
+{
 		"name": "Paint Splash Black",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Paint%20Splash.png",
