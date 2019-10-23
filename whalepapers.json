@@ -3,6 +3,26 @@
 [
 
 {
+		"name": "Obstract Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Obstract%202.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Flat Planet",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Planet.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
 		"name": "Flat Mountains",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Mountains.png",
