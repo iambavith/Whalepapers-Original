@@ -2,6 +2,26 @@
      "Wallpapers":
 [
 
+
+{
+		"name": "Flat Rocket Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flate%20Rocket%20Blue.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+{
+		"name": "Flat Rocket Red",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Rocket%20Red.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
 {
 		"name": "Obstract Blue",
 		"author": "iambavith",
@@ -17,7 +37,7 @@
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Planet.png",
                 "downloadable": false,
-                "collections": "MINIMAL"
+                "collections": "AMOLED"
 	
 	
 	},
