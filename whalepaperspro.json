@@ -2,6 +2,44 @@
      "Wallpapers":
 [
 
+{
+		"name": "Jack Daniels",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Jack%20Daniels.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "Flat Cartoon",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Cartoon.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Alan Walker Black",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Alan%20Walker%20Black.png",
+                 "downloadable": true,
+                "collections": "YOUTUBER"	
+	
+	},
+
+   {
+		"name": "Alan Walker White",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Alan%20Walker%20White.png",
+                 "downloadable": true,
+                "collections": "YOUTUBER"	
+	
+	},
+
 
 {
 		"name": "Flat Pink",
