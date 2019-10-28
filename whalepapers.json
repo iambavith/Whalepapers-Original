@@ -4,6 +4,36 @@
 
 
 {
+		"name": "Flat City Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20City%20Blue.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+{
+		"name": "Flat City Voilet",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20City%20Voilet.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+
+{
+		"name": "SunSet Cat",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/SunSet%20Cat.png",
+                "downloadable": false,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
 		"name": "Jack Daniels",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Jack%20Daniels.png",

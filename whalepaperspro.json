@@ -3,9 +3,18 @@
 [
 
 {
-		"name": "Pubg Yellow",
+		"name": "Flat City Blue",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Pubg%20yellow.png",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20City%20Blue.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+{
+		"name": "Flat City Voilet",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20City%20Voilet.png",
                 "downloadable": true,
                 "collections": "MINIMAL"
 	
@@ -13,20 +22,10 @@
 	},
 
 
-
 {
-		"name": "Pubg Green",
+		"name": "SunSet Cat",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Pubg%20Green.png",
-                "downloadable": true,
-                "collections": "MINIMAL"
-	
-	
-	},
-{
-		"name": "Pubg Dark",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Pubg%20Dark.png",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/SunSet%20Cat.png",
                 "downloadable": true,
                 "collections": "AMOLED"
 	
