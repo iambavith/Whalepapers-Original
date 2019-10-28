@@ -3,6 +3,37 @@
 [
 
 {
+		"name": "Pubg Yellow",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Pubg%20yellow.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+
+
+{
+		"name": "Pubg Green",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Pubg%20Green.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+{
+		"name": "Pubg Dark",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Pubg%20Dark.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
 		"name": "Jack Daniels",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Jack%20Daniels.png",
