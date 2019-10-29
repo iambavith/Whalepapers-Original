@@ -2,6 +2,28 @@
      "Wallpapers":
 [
 
+
+
+{
+		"name": "Beardo White",
+		"author": "caffeinefueled",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Beardo%20white.jpg",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Beardo Black",
+		"author": "caffeinefueled",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Beardo%20black.jpg",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
 {
 		"name": "Flat City Blue",
 		"author": "iambavith",

@@ -4,6 +4,27 @@
 
 
 {
+		"name": "Beardo White",
+		"author": "caffeinefueled",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Beardo%20white.jpg",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Beardo Black",
+		"author": "caffeinefueled",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Beardo%20black.jpg",
+                "downloadable": false,
+                "collections": "AMOLED"
+	
+	
+	},
+
+
+{
 		"name": "Flat City Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20City%20Blue.png",
