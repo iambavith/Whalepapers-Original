@@ -2,7 +2,45 @@
      "Wallpapers":
 [
 
+{
+		"name": "Flat Building Green",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Building%20Green.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
 
+{
+		"name": "Flat Building Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Building%20Blue.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Flat Building Pink",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Building%20Pink.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Jack Sparrow",
+		"author": "caffeinefueled",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/jacksparrow.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
 
 {
 		"name": "Beardo White",
