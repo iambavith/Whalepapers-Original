@@ -2,6 +2,36 @@
      "Wallpapers":
 [
 
+{
+		"name": "Flat Mountains Orange",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Mountains%20Orange.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Flat Wall Voilet",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Wall%20Voilet.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Flat Wall Green",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Wall%20Green.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
 
 {
 		"name": "Flat Building Blue",
