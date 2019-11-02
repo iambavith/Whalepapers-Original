@@ -2,6 +2,27 @@
      "Wallpapers":
 [
 
+
+
+{
+		"name": "Desert Morning",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Desert%20Morning.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+{
+		"name": "Basket Ball Blue",
+		"author": "caffeinefueled",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20Blue.png",
+                "downloadable": false,
+                "collections": "AMOLED"
+	
+	
+	},
+
 {
 		"name": "Minimal Wolf Orange",
 		"author": "iambavith",

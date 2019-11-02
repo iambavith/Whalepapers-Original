@@ -2,6 +2,47 @@
      "Wallpapers":
 [
 
+
+{
+		"name": "Basket Ball Blue",
+		"author": "caffeinefueled",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20Blue.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "Basket Ball Orange",
+		"author": "caffeinefueled",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20Orange.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "Desert Night",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Desert%20Night.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Desert Morning",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Desert%20Morning.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
 {
 		"name": "Minimal Wolf Blue",
 		"author": "iambavith",
