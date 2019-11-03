@@ -2,7 +2,25 @@
      "Wallpapers":
 [
 
+{
+		"name": "Deer Red",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Deer%20Red.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
 
+{
+		"name": "Deer Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Deer%20Blue.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
 
 {
 		"name": "Desert Morning",
