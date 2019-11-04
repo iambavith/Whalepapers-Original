@@ -3,6 +3,37 @@
 [
 
 {
+		"name": "Nut and Bolt Yellow",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Nut%20and%20Bolt%20Yellow.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Nut and Bolt Red",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Nut%20and%20Bolt%20Red.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Nut and Bolt Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Nut%20and%20Bolt%20Blue.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+
+{
 		"name": "Deer Orange",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Deer%20Orange.png",
@@ -36,7 +67,7 @@
 
 {
 		"name": "Basket Ball Blue",
-		"author": "caffeinefueled",
+		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20Blue.png",
                 "downloadable": true,
                 "collections": "AMOLED"
@@ -46,7 +77,7 @@
 
 {
 		"name": "Basket Ball Orange",
-		"author": "caffeinefueled",
+		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20Orange.png",
                 "downloadable": true,
                 "collections": "AMOLED"
