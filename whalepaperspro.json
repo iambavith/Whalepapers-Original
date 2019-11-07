@@ -2,6 +2,27 @@
      "Wallpapers":
 [
 
+
+{
+		"name": "Paint Pink",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Paint%20Pink.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Paint Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Paint%20Blue.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
 {
 		"name": "Astronut Sky Blue",
 		"author": "iambavith",
