@@ -3,6 +3,26 @@
 [
 
 {
+		"name": "2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/2.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/1.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
 		"name": "Skull 2",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Skull%202.png",
