@@ -3,6 +3,25 @@
 [
 
 {
+		"name": "7",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/7.png",
+                "downloadable": false ,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "6",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/6.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	},
+
+{
 		"name": "3",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/3.png",
