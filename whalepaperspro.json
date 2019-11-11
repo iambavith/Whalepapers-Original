@@ -3,6 +3,36 @@
 [
 
 {
+		"name": "10",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/10.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "9",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/9.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "8",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/8.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
 		"name": "7",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/7.png",
@@ -182,7 +212,7 @@
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Deer%20Orange.png",
                 "downloadable": true,
-                "collections": "MINIMAL"
+                "collections": "AMOLED"
 	
 	
 	},
@@ -193,7 +223,7 @@
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Deer%20Red.png",
                 "downloadable": true,
-                "collections": "MINIMAL"
+                "collections": "AMOLED"
 	
 	
 	},
@@ -203,7 +233,7 @@
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Deer%20Blue.png",
                 "downloadable": true,
-                "collections": "MINIMAL"
+                "collections": "AMOLED"
 	
 	
 	},
