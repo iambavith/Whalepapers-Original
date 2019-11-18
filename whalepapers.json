@@ -3,10 +3,30 @@
 [
 
 {
+		"name": "20",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/31.png",
+                "downloadable": false,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "19",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/30.png",
+                "downloadable": false,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
 		"name": "18",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/27.png",
-                "downloadable": true,
+                "downloadable": false,
                 "collections": "MINIMAL"
 	
 	
@@ -17,7 +37,7 @@
 		"name": "17",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/26.png",
-                "downloadable": true,
+                "downloadable": false,
                 "collections": "MINIMAL"
 	
 	
