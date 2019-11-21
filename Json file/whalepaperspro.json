@@ -3,10 +3,151 @@
 [
 
 {
-		"name": "26",
+		"name": "40",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/40.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "39",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/39.png",
-                "downloadable": false,
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "38",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/38.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "37",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/37.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "36",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/36.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "35",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/35.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "34",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/34.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "33",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/33.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "32",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/32.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "31",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/31.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "30",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/30.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "29",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/29.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "28",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/28.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "27",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/27.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+
+{
+		"name": "26",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/26.png",
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -15,19 +156,20 @@
 {
 		"name": "25",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/38.png",
-                "downloadable": false,
-                "collections": "MINIMAL"
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/25.png",
+                "downloadable": true,
+                "collections": "MATERIAL"
 	
 	
 	},
 
+
 {
 		"name": "24",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/36.png",
-                "downloadable": false,
-                "collections": "MINIMAL"
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/24.png",
+                "downloadable": true,
+                "collections": "MATERIAL"
 	
 	
 	},
@@ -35,9 +177,9 @@
 {
 		"name": "23",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/35.png",
-                "downloadable": false,
-                "collections": "MINIMAL"
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/23.png",
+                "downloadable": true,
+                "collections": "MATERIAL"
 	
 	
 	},
@@ -45,8 +187,8 @@
 {
 		"name": "22",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/34.png",
-                "downloadable": false,
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/22.png",
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -55,8 +197,8 @@
 {
 		"name": "21",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/32.png",
-                "downloadable": false,
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/21.png",
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -65,8 +207,8 @@
 {
 		"name": "20",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/31.png",
-                "downloadable": false,
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/20.png",
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -75,29 +217,29 @@
 {
 		"name": "19",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/30.png",
-                "downloadable": false,
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/19.png",
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
 	},
+
 
 {
 		"name": "18",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/27.png",
-                "downloadable": false,
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/18.png",
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
 	},
 
-
 {
 		"name": "17",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/26.png",
-                "downloadable": false,
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/17.png",
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -106,9 +248,9 @@
 {
 		"name": "16",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/24.png",
-                "downloadable": false,
-                "collections": "MATERIAL"
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/16.png",
+                "downloadable": true,
+                "collections": "AMOLED"
 	
 	
 	},
@@ -116,9 +258,9 @@
 {
 		"name": "15",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/23.png",
-                "downloadable": false,
-                "collections": "MATERIAL"
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/15.png",
+                "downloadable": true,
+                "collections": "AMOLED"
 	
 	
 	},
@@ -126,8 +268,8 @@
 {
 		"name": "14",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/21.png",
-                "downloadable": false,
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/14.png",
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -136,9 +278,9 @@
 {
 		"name": "13",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/20.png",
-                "downloadable": false,
-                "collections": "AMOLED"
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/13.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
 	
 	
 	},
@@ -146,18 +288,19 @@
 {
 		"name": "12",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/18.png",
-                "downloadable": false,
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/12.png",
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
 	},
 
+
 {
 		"name": "11",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/17.png",
-                "downloadable": false,
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/11.png",
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -166,8 +309,8 @@
 {
 		"name": "10",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/16.png",
-                "downloadable": false,
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/10.png",
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -176,8 +319,8 @@
 {
 		"name": "9",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/14.png",
-                "downloadable": false,
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/9.png",
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -186,9 +329,9 @@
 {
 		"name": "8",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/13.png",
-                "downloadable": false,
-                "collections": "MINIMAL"
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/8.png",
+                "downloadable": true,
+                "collections": "AMOLED"
 	
 	
 	},
@@ -196,8 +339,8 @@
 {
 		"name": "7",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/11.png",
-                "downloadable": false,
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/7.png",
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -206,9 +349,9 @@
 {
 		"name": "6",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/9.png",
-                "downloadable": false,
-                "collections": "AMOLED"
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/6.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
 	
 	
 	},
@@ -216,9 +359,9 @@
 {
 		"name": "5",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/8.png",
-                "downloadable": false,
-                "collections": "AMOLED"
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/5.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
 	
 	
 	},
@@ -226,27 +369,29 @@
 {
 		"name": "4",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/7.png",
-                "downloadable": false ,
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/4.png",
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
 	},
 
+
 {
 		"name": "3",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/6.png",
-                "downloadable": false,
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/3.png",
+                "downloadable": true,
                 "collections": "MINIMAL"
+	
 	
 	},
 
 {
 		"name": "2",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/3.png",
-                "downloadable": false,
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/2.png",
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -256,7 +401,7 @@
 		"name": "1",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/1.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -266,7 +411,7 @@
 		"name": "Skull 2",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Skull%202.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -277,7 +422,7 @@
 		"name": "Skull 1",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Skull%201.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -288,7 +433,7 @@
 		"name": "Paint Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Paint%20Blue.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -298,7 +443,7 @@
 		"name": "Astronut Sky Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Astronut%20sky%20blue.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -308,17 +453,38 @@
 		"name": "Astronut Yellow",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Astronut%20Yellow.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
 	},
 
 {
+		"name": "Astronut Pink",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Astronut%20Pink.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+{
+		"name": "Astronut Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Astronut%20Blue.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+
+{
 		"name": "Nut and Bolt Yellow",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Nut%20and%20Bolt%20Yellow.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -328,16 +494,39 @@
 		"name": "Nut and Bolt Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Nut%20and%20Bolt%20Red.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
 	},
+
+{
+		"name": "Nut and Bolt Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Nut%20and%20Bolt%20Blue.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+
+{
+		"name": "Deer Orange",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Deer%20Orange.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+
 {
 		"name": "Deer Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Deer%20Red.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -347,8 +536,39 @@
 		"name": "Deer Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Deer%20Blue.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
+	
+	
+	},
+
+
+{
+		"name": "Basket Ball Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20Blue.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "Basket Ball Orange",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20Orange.png",
+                "downloadable": true,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "Desert Night",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Desert%20Night.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
 	
 	
 	},
@@ -357,17 +577,18 @@
 		"name": "Desert Morning",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Desert%20Morning.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
 	},
+
 {
-		"name": "Basket Ball Blue",
-		"author": "caffeinefueled",
-		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20Blue.png",
-                "downloadable": false,
-                "collections": "AMOLED"
+		"name": "Minimal Wolf Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Minimal%20Wolf%20Blue.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
 	
 	
 	},
@@ -376,7 +597,7 @@
 		"name": "Minimal Wolf Orange",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Minimal%20Wolf%20Orange.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -386,7 +607,7 @@
 		"name": "Halloween Wall",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Halloween%20Wall.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -397,7 +618,7 @@
 		"name": "Flat Mountains Orange",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Mountains%20Orange.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -407,16 +628,38 @@
 		"name": "Flat Wall Voilet",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Wall%20Voilet.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
 	},
+
+{
+		"name": "Flat Wall Green",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Wall%20Green.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
+
+{
+		"name": "Flat Building Blue",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Building%20Blue.png",
+                "downloadable": true,
+                "collections": "MINIMAL"
+	
+	
+	},
+
 {
 		"name": "Flat Building Pink",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Building%20Pink.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -426,19 +669,17 @@
 		"name": "Jack Sparrow",
 		"author": "caffeinefueled",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/jacksparrow.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
 	},
 
-
-
 {
 		"name": "Beardo White",
 		"author": "caffeinefueled",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Beardo%20white.jpg",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -448,18 +689,17 @@
 		"name": "Beardo Black",
 		"author": "caffeinefueled",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Beardo%20black.jpg",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
 	},
 
-
 {
 		"name": "Flat City Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20City%20Blue.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -468,7 +708,7 @@
 		"name": "Flat City Voilet",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20City%20Voilet.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -479,7 +719,7 @@
 		"name": "SunSet Cat",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/SunSet%20Cat.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -489,7 +729,7 @@
 		"name": "Jack Daniels",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Jack%20Daniels.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -499,7 +739,7 @@
 		"name": "Flat Cartoon",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Cartoon.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -509,7 +749,7 @@
 		"name": "Alan Walker Black",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Alan%20Walker%20Black.png",
-                 "downloadable": false,
+                 "downloadable": true,
                 "collections": "YOUTUBER"	
 	
 	},
@@ -518,7 +758,7 @@
 		"name": "Alan Walker White",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Alan%20Walker%20White.png",
-                 "downloadable": false,
+                 "downloadable": true,
                 "collections": "YOUTUBER"	
 	
 	},
@@ -528,7 +768,7 @@
 		"name": "Flat Pink",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Pink.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -538,7 +778,7 @@
 		"name": "Flat Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Blue.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -549,7 +789,7 @@
 		"name": "Bicycle",
 		"author": "caffeinefueled",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/bicycle%20(2).jpg",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -559,7 +799,7 @@
 		"name": "White Tiger",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/White%20Tiger.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -570,7 +810,7 @@
 		"name": "Spider Yellow",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Spider%20Yellow.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -579,7 +819,7 @@
 		"name": "Spider Black",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Spider%20Black.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -589,7 +829,7 @@
 		"name": "Butter Fly Black",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Butter%20Fly.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -599,7 +839,7 @@
 		"name": "Butter Fly White",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Butter%20Fly%20White.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -610,7 +850,7 @@
 		"name": "FlatRocket Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flate%20Rocket%20Blue.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -619,7 +859,7 @@
 		"name": "Flat Rocket Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Rocket%20Red.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -629,7 +869,7 @@
 		"name": "Obstract Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Obstract%202.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -639,7 +879,7 @@
 		"name": "Flat Planet",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Planet.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -649,7 +889,7 @@
 		"name": "Flat Mountains",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Mountains.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -659,7 +899,7 @@
 		"name": "AreoPlane Clipart",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Aeroplane%20Clipart.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -670,7 +910,7 @@
 		"name": "Wolf Orange",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Wolf%20Orange.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -680,7 +920,7 @@
 		"name": "Wolf Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Wolf%20Blue.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -690,7 +930,7 @@
 		"name": "SunRise Orange",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Sun%20Rise%20Orange.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -700,7 +940,7 @@
 		"name": "SunRise Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Sun%20Rise%20Blue.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -710,7 +950,7 @@
 		"name": "Material 1",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Material%201.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MATERIAL"
 	
 	
@@ -720,7 +960,7 @@
 		"name": "Paint Splash Black",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Paint%20Splash.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -731,7 +971,7 @@
 		"name": "Paint Splash White",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Paint%20Splash%20White.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -741,7 +981,7 @@
 		"name": "Mountain Climbing Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Mountain%20Climbing%20Red.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -750,7 +990,7 @@
 		"name": "Mountain Climbing Green",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Mountain%20Climbing%20Green.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -761,7 +1001,7 @@
 		"name": "Mountain Climbing Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Mountain%20Climbing%20Blue.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -771,7 +1011,7 @@
 		"name": "Jocker",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Jocker.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -783,7 +1023,7 @@
 		"name": "Bat Man Logo Yellow",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Bat%20Man%20Logo%20Yellow.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -793,7 +1033,7 @@
 		"name": "Bat Man Logo Black",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Bat%20Man%20Logo%20Black.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -802,7 +1042,7 @@
 		"name": "Bat Man Yellow",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Bat%20Man%20Yellow.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -812,7 +1052,7 @@
 		"name": "Bat Man Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Bat%20Man%20Blue.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -823,7 +1063,7 @@
 		"name": "Asus Rog Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Asus%20ROG%20Red.png",
-                 "downloadable": false,
+                 "downloadable": true,
 	        "collections": "GRADIENT"
 	
 	},
@@ -831,7 +1071,7 @@
 		"name": "Asus Rog Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Asus%20ROG%20Blue.png",
-                 "downloadable": false,
+                 "downloadable": true,
 	        "collections": "GRADIENT"
 	
 	},
@@ -839,7 +1079,7 @@
 		"name": "Captain America",
 		"author": "caffeinefueled",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/captain%20america%20(3).jpg",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -849,7 +1089,7 @@
 		"name": "Flat Buildings Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Flat%20Buildings%20Blue.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -859,7 +1099,7 @@
 		"name": "Love Park Yellow",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Love%20Park%20Yellow.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -868,7 +1108,7 @@
 		"name": "Love Park Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Love%20Park%20Red.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -878,7 +1118,7 @@
 		"name": "Love Park Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Love%20Park%20Blue.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -888,7 +1128,7 @@
 		"name": "Squirrel Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Squirrel%20Red.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -897,7 +1137,7 @@
 		"name": "Squirrel Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Squirrel%20Blue.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "MINIMAL"
 	
 	
@@ -907,7 +1147,7 @@
 		"name": "Abstract 1 Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Obstract%201%20Blue.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -916,7 +1156,7 @@
 		"name": "Abstract 1 Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Obstract%201%20RED.png",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -925,7 +1165,7 @@
 		"name": "Abstract 1 Yellow",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Obstract%201%20Yellow.png",
-                 "downloadable": false,
+                 "downloadable": true,
 	        "collections": "AMOLED"
 	
 	},
@@ -933,7 +1173,7 @@
 		"name": "Basket Ball Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20%20dark%20red.jpg",
-                 "downloadable": false,
+                 "downloadable": true,
 	        "collections": "AMOLED"
 	
 	},
@@ -941,7 +1181,7 @@
 		"name": "Basket Ball Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Basketball%20blue.jpg",
-                "downloadable": false,
+                "downloadable": true,
                 "collections": "AMOLED"
 	
 	
@@ -950,7 +1190,7 @@
 		"name": "Asus Rog",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Asus%20ROG%201.jpg",
-                 "downloadable": false,
+                 "downloadable": true,
 	        "collections": "GRADIENT"
 	
 	},
@@ -958,7 +1198,7 @@
 		"name": "Horse Pink",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Horse%20PINK.jpg",
-                 "downloadable": false,
+                 "downloadable": true,
                  "collections": "AMOLED"
 	
 	
@@ -967,7 +1207,7 @@
 		"name": "Horse Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Horse%20RED.jpg",
-                 "downloadable": false,
+                 "downloadable": true,
                  "collections": "AMOLED"
 	
 	
@@ -976,7 +1216,7 @@
 		"name": "Ink Splash Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Ink%20splash%20BLUE.jpg",
-                "downloadable": false,
+                "downloadable": true,
                  "collections": "GESTURE"
 	
 	
@@ -985,7 +1225,7 @@
 		"name": "Ink Splash Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Ink%20splash%20RED.jpg",
-                 "downloadable": false,
+                 "downloadable": true,
                 "collections": "GESTURE"	
 	
 	},
@@ -994,7 +1234,7 @@
 		"name": "Lovely Hearts Red",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Lovely%20hearts%20red.jpg",
-                 "downloadable": false,
+                 "downloadable": true,
                 "collections": "MINIMAL"	
 	
 	},
@@ -1003,7 +1243,7 @@
 		"name": "Lovely Hearts Blue",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Lovely%20hearts%20blue.jpg",
-                 "downloadable": false,
+                 "downloadable": true,
                 "collections": "MINIMAL"	
 	
 	},
@@ -1012,7 +1252,7 @@
 		"name": "Lovely Hearts Green",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Lovely%20hearts%20green.jpg",
-                 "downloadable": false,
+                 "downloadable": true,
                 "collections": "MINIMAL"	
 	
 	},
@@ -1021,7 +1261,7 @@
 		"name": "Night Light",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Night%20Light.jpg",
-                 "downloadable": false,
+                 "downloadable": true,
                 "collections": "MINIMAL"	
 	
 	},
@@ -1029,7 +1269,7 @@
 		"name": "MrWhoseTheBoss Black",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/mrwhosetheboss%20black.jpg",
-                 "downloadable": false,
+                 "downloadable": true,
                 "collections": "YOUTUBER"	
 	
 	},
@@ -1038,7 +1278,7 @@
 		"name": "MrWhoseTheBoss Gradient",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/mrwhosetheboss%20minimal.jpg",
-                 "downloadable": false,
+                 "downloadable": true,
                 "collections": "YOUTUBER"	
 	
 	},
@@ -1047,7 +1287,7 @@
 		"name": "MrWhoseTheBoss White",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/mrwhosetheboss%20white.jpg",
-                 "downloadable": false,
+                 "downloadable": true,
                 "collections": "YOUTUBER"	
 	
 	},
