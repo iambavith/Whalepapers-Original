@@ -3,9 +3,19 @@
 [
 
 {
-		"name": "139",
+		"name": "140",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/180.png",
+                "downloadable": false,
+                "collections": "AMOLED"
+	
+	
+	},
+
+{
+		"name": "139",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/179.png",
                 "downloadable": false,
                 "collections": "AMOLED"
 	
