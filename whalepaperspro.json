@@ -3,11 +3,41 @@
 [
 
 {
+		"name": "204",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/204.png",
+                "downloadable": true,
+                "collections": "MATERIAL"
+	
+	
+	},
+
+{
+		"name": "203",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/203.png",
+                "downloadable": true,
+                "collections": "MATERIAL"
+	
+	
+	},
+
+{
+		"name": "202",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/202.png",
+                "downloadable": true,
+                "collections": "MATERIAL"
+	
+	
+	},
+
+{
 		"name": "201",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/201.png",
                 "downloadable": true,
-                "collections": "MATERIAL"
+                "collections": "AMOLED"
 	
 	
 	},
@@ -17,7 +47,7 @@
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/200.png",
                 "downloadable": true,
-                "collections": "MATERIAL"
+                "collections": "AMOLED"
 	
 	
 	},
@@ -27,7 +57,7 @@
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/199.png",
                 "downloadable": true,
-                "collections": "MATERIAL"
+                "collections": "AMOLED"
 	
 	
 	},
